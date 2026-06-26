@@ -21,7 +21,6 @@ fastpt/core/FASTPT_simple.py
 fastpt/core/FPTHandler.py
 fastpt/misc/HT.py
 fastpt/misc/bias_choice_plot.py
-fastpt/misc/fastpttest.py
 fastpt/rsd/RSD.py
 fastpt/rsd/RSD_ItypeII.py
 fastpt/utils/J_k.py
